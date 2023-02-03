@@ -7,4 +7,4 @@ app.include_router(reservacion)
 
 @app.get('/')
 async def inicio():
-    return 'Pagina Principal'
+    return 'Pagina Principal del Hotel La Cigarra'
